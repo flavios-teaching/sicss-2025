@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 SOURCE_DIR="notebooks"
-OUTPUT_DIR="converted_html"
-OUTPUT_FORMAT="html"
+OUTPUT_DIR="converted_md"
+OUTPUT_FORMAT="markdown"
 
 # Exit immediately if a command exits with a non-zero status.
 set -e
